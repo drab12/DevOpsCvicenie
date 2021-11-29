@@ -1,0 +1,46 @@
+C:\Users\Matej dr\Desktop\fmfiskola\magister\2\aplikacne\cviko\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Matej dr\Desktop\fmfiskola\magister\2\aplikacne\cviko\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Matej dr\Desktop\fmfiskola\magister\2\aplikacne\cviko\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Matej dr\Desktop\fmfiskola\magister\2\aplikacne\cviko\bin\Debug\netcoreapp3.1\cviko.exe
+C:\Users\Matej dr\Desktop\fmfiskola\magister\2\aplikacne\cviko\bin\Debug\netcoreapp3.1\cviko.deps.json
+C:\Users\Matej dr\Desktop\fmfiskola\magister\2\aplikacne\cviko\bin\Debug\netcoreapp3.1\cviko.runtimeconfig.json
+C:\Users\Matej dr\Desktop\fmfiskola\magister\2\aplikacne\cviko\bin\Debug\netcoreapp3.1\cviko.runtimeconfig.dev.json
+C:\Users\Matej dr\Desktop\fmfiskola\magister\2\aplikacne\cviko\bin\Debug\netcoreapp3.1\cviko.dll
+C:\Users\Matej dr\Desktop\fmfiskola\magister\2\aplikacne\cviko\bin\Debug\netcoreapp3.1\cviko.pdb
+C:\Users\Matej dr\Desktop\fmfiskola\magister\2\aplikacne\cviko\obj\Debug\netcoreapp3.1\cviko.csprojAssemblyReference.cache
+C:\Users\Matej dr\Desktop\fmfiskola\magister\2\aplikacne\cviko\obj\Debug\netcoreapp3.1\cviko.AssemblyInfoInputs.cache
+C:\Users\Matej dr\Desktop\fmfiskola\magister\2\aplikacne\cviko\obj\Debug\netcoreapp3.1\cviko.AssemblyInfo.cs
+C:\Users\Matej dr\Desktop\fmfiskola\magister\2\aplikacne\cviko\obj\Debug\netcoreapp3.1\cviko.csproj.CoreCompileInputs.cache
+C:\Users\Matej dr\Desktop\fmfiskola\magister\2\aplikacne\cviko\obj\Debug\netcoreapp3.1\cviko.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Matej dr\Desktop\fmfiskola\magister\2\aplikacne\cviko\obj\Debug\netcoreapp3.1\cviko.RazorTargetAssemblyInfo.cache
+C:\Users\Matej dr\Desktop\fmfiskola\magister\2\aplikacne\cviko\obj\Debug\netcoreapp3.1\staticwebassets\cviko.StaticWebAssets.Manifest.cache
+C:\Users\Matej dr\Desktop\fmfiskola\magister\2\aplikacne\cviko\obj\Debug\netcoreapp3.1\staticwebassets\cviko.StaticWebAssets.xml
+C:\Users\Matej dr\Desktop\fmfiskola\magister\2\aplikacne\cviko\obj\Debug\netcoreapp3.1\cviko.dll
+C:\Users\Matej dr\Desktop\fmfiskola\magister\2\aplikacne\cviko\obj\Debug\netcoreapp3.1\cviko.pdb
+C:\Users\Matej dr\Desktop\fmfiskola\magister\2\aplikacne\cviko\obj\Debug\netcoreapp3.1\cviko.genruntimeconfig.cache
+C:\Users\rster\aplikacne\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\rster\aplikacne\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\rster\aplikacne\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\rster\aplikacne\bin\Debug\netcoreapp3.1\cviko.exe
+C:\Users\rster\aplikacne\bin\Debug\netcoreapp3.1\cviko.deps.json
+C:\Users\rster\aplikacne\bin\Debug\netcoreapp3.1\cviko.runtimeconfig.json
+C:\Users\rster\aplikacne\bin\Debug\netcoreapp3.1\cviko.runtimeconfig.dev.json
+C:\Users\rster\aplikacne\bin\Debug\netcoreapp3.1\cviko.dll
+C:\Users\rster\aplikacne\bin\Debug\netcoreapp3.1\cviko.pdb
+C:\Users\rster\aplikacne\obj\Debug\netcoreapp3.1\cviko.csprojAssemblyReference.cache
+C:\Users\rster\aplikacne\obj\Debug\netcoreapp3.1\cviko.AssemblyInfoInputs.cache
+C:\Users\rster\aplikacne\obj\Debug\netcoreapp3.1\cviko.AssemblyInfo.cs
+C:\Users\rster\aplikacne\obj\Debug\netcoreapp3.1\cviko.csproj.CoreCompileInputs.cache
+C:\Users\rster\aplikacne\obj\Debug\netcoreapp3.1\cviko.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rster\aplikacne\obj\Debug\netcoreapp3.1\cviko.RazorTargetAssemblyInfo.cache
+C:\Users\rster\aplikacne\obj\Debug\netcoreapp3.1\staticwebassets\cviko.StaticWebAssets.Manifest.cache
+C:\Users\rster\aplikacne\obj\Debug\netcoreapp3.1\staticwebassets\cviko.StaticWebAssets.xml
+C:\Users\rster\aplikacne\obj\Debug\netcoreapp3.1\cviko.dll
+C:\Users\rster\aplikacne\obj\Debug\netcoreapp3.1\cviko.pdb
+C:\Users\rster\aplikacne\obj\Debug\netcoreapp3.1\cviko.genruntimeconfig.cache
+C:\Users\rster\aplikacne\bin\Debug\netcoreapp3.1\internetBankingFE\angular.json
+C:\Users\rster\aplikacne\bin\Debug\netcoreapp3.1\internetBankingFE\package-lock.json
+C:\Users\rster\aplikacne\bin\Debug\netcoreapp3.1\internetBankingFE\package.json
+C:\Users\rster\aplikacne\bin\Debug\netcoreapp3.1\internetBankingFE\tsconfig.app.json
+C:\Users\rster\aplikacne\bin\Debug\netcoreapp3.1\internetBankingFE\tsconfig.json
+C:\Users\rster\aplikacne\bin\Debug\netcoreapp3.1\internetBankingFE\tsconfig.spec.json

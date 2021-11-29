@@ -1,0 +1,9 @@
+<tr *ngFor="let transaction of this.transactions">
+    <td>
+        <p>{{transaction.accountNumber}}
+             {{transaction.amount}} 
+            {{transaction.bankCode}} {{transaction.fullName}} {{transaction.issueDate}}
+            {{transaction.transactionId}}  {{transaction.transactionType}}</p>
+    </td>
+
+</tr>
